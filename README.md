@@ -1,6 +1,6 @@
 # RainForest dataset report using Power BI
 
-##### It's a french report about RainForest dataset sales with 2 measures amount and quantity in different markets and trimisters of 2019 year.
+#### It's a french report about RainForest dataset sales with 2 measures amount and quantity in different markets and trimisters of 2019 year.
 
 **The first page** of the report present in the left a segment for variation, 2 one-row cards show the invoiced amount and the elapsed quantity, in the middle there's one  chart shows the amount of every month and a multi-row card shows the top colors, in the right there's a pie chart that shows the quantity spent by each country of the market and a table shows the amount and the equivalent quantity for every country. in the bottom there's a bottom chart show how quantity elapsed every week. 
 
